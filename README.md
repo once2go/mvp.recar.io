@@ -12,6 +12,15 @@ You can find firmware in 'BoardFirmware' directory. Be attentive, check your wir
 USB-UART lib author (https://github.com/felHR85). Android <-> car board communication.
 OBD-II lib lib author (https://github.com/felHR85). Android <-> car CAN bus communication.
 
+##Some historical moments =) 
+![First json responses receiving](https://github.com/once2go/mvp.recar.io/blob/master/recar_reports/IMG_20160410_143945.jpg)
+![Reconstruction](https://github.com/once2go/mvp.recar.io/blob/master/recar_reports/IMG_20160410_145141.jpg)
+![Old one, new one](https://github.com/once2go/mvp.recar.io/blob/master/recar_reports/IMG_20160412_194900.jpg)
+
+![Inside](https://github.com/once2go/mvp.recar.io/blob/master/recar_reports/IMG_20160410_211341.jpg)
+
+![Under Android protection](https://github.com/once2go/mvp.recar.io/blob/master/recar_reports/IMG_20160412_164912.jpg)
+
 ##Contact me
 All recommendations and offers send me to: 
 https://www.facebook.com/once.2u.go  - my facebook.
