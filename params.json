@@ -1,0 +1,6 @@
+{
+  "name": "Mvp.recar.io",
+  "tagline": "Hi there) This is  minimum viable product of car board system based on Android.",
+  "body": "### Welcome to Recar.io mvp project. \r\nWith this code you can realize simple car PC based on android. Most features not realized yet, but stay tuned.\r\nI love my car, that's why ill try add more and more functions as soon as it be possible.  \r\n\r\n## Firmware \r\nYou can find firmware in 'BoardFirmware' directory. Be attentive, check your wire connections before uploading firmware to your board & power on switching. All outputs defined on code file.\r\n\r\n##Block schema \r\nhttps://drive.google.com/open?id=0Bzg5hiTjIVChQ1VlcjhCbzU3dW8\r\n\r\n##References \r\nUSB-UART lib author (https://github.com/felHR85). Android <-> car board communication.\r\nOBD-II lib lib author (https://github.com/felHR85). Android <-> car CAN bus communication.\r\n\r\n##Contact me\r\nAll recommendations and offers send me to: \r\nhttps://www.facebook.com/once.2u.go  - my facebook.\r\nonce2go@gmail.com - my e-mail.\r\n\r\n\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
